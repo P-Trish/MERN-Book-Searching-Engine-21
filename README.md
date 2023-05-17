@@ -21,12 +21,14 @@ Steps to install this project:
 - Run 'npm run develop' to concurrently run the server and client applications as the server runs on port 3001 and client runs on port 3000. 
 
 Required modules & dependencies:
-apollo-server-express^3.11.1
-express^4.17.2
-graphql^15.8.0
+- apollo-server-express^3.11.1
+- express^4.17.2
+- graphql^15.8.0
 
 
 ## Usage
+
+LINK TO DEPLOYED APPLICATION: 
 
 Once 'npm run develop' the book search engine will spin up in the browser. There, a menu is presented with an option to search for books by inputting a title and hitting the submit button, as well as a Login/Signup option. 
 
