@@ -28,7 +28,7 @@ Required modules & dependencies:
 
 ## Usage
 
-LINK TO DEPLOYED APPLICATION: https://git.heroku.com/whispering-eyrie-44486.git
+LINK TO DEPLOYED APPLICATION: https://whispering-eyrie-44486.herokuapp.com/	
 
 Once 'npm run develop' the book search engine will spin up in the browser. There, a menu is presented with an option to search for books by inputting a title and hitting the submit button, as well as a Login/Signup option. 
 
