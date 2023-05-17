@@ -32,17 +32,17 @@ LINK TO DEPLOYED APPLICATION: https://whispering-eyrie-44486.herokuapp.com/
 
 Once 'npm run develop' the book search engine will spin up in the browser. There, a menu is presented with an option to search for books by inputting a title and hitting the submit button, as well as a Login/Signup option. 
 
-![alt text](./Main/client/assets/images/HW21_1.png)
+![alt text](./client/assets/images/HW21_1.png)
 
-![alt text](./Main/client/assets/images/HW21_2.png)
+![alt text](./client/assets/images/HW21_2.png)
 
 When the user searches for a book, the results appear with a button to save the book if they are logged in to their account.
 
-![alt text](./Main/client/assets/images/HW21_3.png)
+![alt text](./client/assets/images/HW21_3.png)
 
 Once logged in, the user can also view their saved books in their account, with the option to delete them as well.  -
 
-![alt text](./Main/client/assets/images/HW21_4.png)
+![alt text](./client/assets/images/HW21_4.png)
 
 ## Credits
 
