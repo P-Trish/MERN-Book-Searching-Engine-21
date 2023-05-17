@@ -1,37 +1,45 @@
 # MERN-Book-Searching-Engine-21
 
-
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The motivation for this project was to take an API search engine built with a RESTful API and refractor into a GraphQL API built with Apollo Server.  With this app, users are able to save book searches in the back end.  The app was built using the MERN stack, with a React front end, MongoDB, and Node.js/Express.js server and API.  
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The MERN Book Search Engine takes on the user story: 
+AS AN avid reader
+I WANT to search for new books to read
+SO THAT I can keep a list of books to purchase.  
+
+By building this project, I applied the knowledge learned on GraphQL queries and mutations and integrated them with an Apollo server to enable their utilization by the user in the front end.  
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Steps to install this project:
+
+- Run 'npm i' in the root project directory to install all packages and dependencies.  
+
+- Run 'npm run develop' to concurrently run the server and client applications as the server runs on port 3001 and client runs on port 3000. 
+
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Once 'npm run develop' the book search engine will spin up in the browser. There, a menu is presented with an option to search for books by inputting a title and hitting the submit button, as well as a Login/Signup option. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![alt text](./Main/client/assets/images/HW21_1.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](./Main/client/assets/images/HW21_2.png)
+
+When the user searches for a book, the results appear with a button to save the book if they are logged in to their account.
+
+![alt text](./Main/client/assets/images/HW21_3.png)
+
+Once logged in, the user can also view their saved books in their account, with the option to delete them as well.  
+
+![alt text](./Main/client/assets/images/HW21_4.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I would like to pay credit to our instructor Bryan Swarthout for walking us through the project and deployment.  
 
 ## License
 
