@@ -20,6 +20,11 @@ Steps to install this project:
 
 - Run 'npm run develop' to concurrently run the server and client applications as the server runs on port 3001 and client runs on port 3000. 
 
+Required modules & dependencies:
+apollo-server-express^3.11.1
+express^4.17.2
+graphql^15.8.0
+
 
 ## Usage
 
