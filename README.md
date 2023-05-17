@@ -33,7 +33,7 @@ When the user searches for a book, the results appear with a button to save the 
 
 ![alt text](./Main/client/assets/images/HW21_3.png)
 
-Once logged in, the user can also view their saved books in their account, with the option to delete them as well.  
+Once logged in, the user can also view their saved books in their account, with the option to delete them as well.  -
 
 ![alt text](./Main/client/assets/images/HW21_4.png)
 
